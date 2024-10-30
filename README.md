@@ -26,11 +26,11 @@ The script supports the following JetBrains products:
 
 ## Usage
 
-1. **Download the Script**: Save the script as `reset_jetbrains_evals.sh`.
+1. **Download the Script**: Save the script as `reset.sh`.
 
 2. **Make the Script Executable**:
    ```bash
-   chmod +x reset_jetbrains_evals.sh
+   chmod +x reset.sh
   ./reset.sh
 
 The script will automatically detect your operating system (macOS or Linux) and execute the appropriate commands to reset the evaluation states.
